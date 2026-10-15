@@ -1,6 +1,0 @@
-{
-  "name": "IFCE Iventus",
-  "description": "Sistema de gestão de eventos, inscrições e certificados acadêmicos do IFCE desenvolvido em HTML5, CSS3 e JavaScript puro.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
